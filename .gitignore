@@ -1,0 +1,10 @@
+manifest.mf
+MANIFEST.MF
+build.xml
+master-application.jnlp
+lwjgl64.dll
+OpenAL64.dll
+nbproject
+resources
+build
+dist
